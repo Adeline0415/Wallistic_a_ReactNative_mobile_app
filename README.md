@@ -21,6 +21,7 @@ Wallistic is developed using React Native and Expo, allowing for easy developmen
 
 - [Dark Mode](https://www.figma.com/proto/v0NciO6hnoA7JuotXtXol1/DEMO2?type=design&node-id=2013-13109&t=rBOrnFrh3cQDRdX6-9&scaling=scale-down&page-id=1011%3A3346&starting-point-node-id=2013%3A13109&show-proto-sidebar=1)
 
+- [Website](https://www.figma.com/proto/v0NciO6hnoA7JuotXtXol1/DEMO2?type=design&node-id=2017-14445&scaling=scale-down&page-id=2017%3A14273&starting-point-node-id=2017%3A14445&show-proto-sidebar=1)
 
 ## Wallistic App Feature Demos Video
 
